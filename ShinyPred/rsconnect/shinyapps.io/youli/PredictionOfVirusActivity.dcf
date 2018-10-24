@@ -1,0 +1,12 @@
+name: PredictionOfVirusActivity
+title: PredictionOfVirusActivity
+username:
+account: youli
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 343127
+bundleId: 1410663
+url: https://youli.shinyapps.io/PredictionOfVirusActivity/
+when: 1528126108.97792
+asMultiple: FALSE
+asStatic: FALSE

@@ -1,0 +1,12 @@
+name: PredictionOfVirusEpidemics
+title: PredictionOfVirusEpidemics
+username:
+account: you-li
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 357104
+bundleId: 1570971
+url: https://you-li.shinyapps.io/PredictionOfVirusEpidemics/
+when: 1536161423.94051
+asMultiple: FALSE
+asStatic: FALSE

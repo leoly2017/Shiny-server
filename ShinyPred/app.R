@@ -16,7 +16,8 @@ ui <- fluidPage(
    
    # Application title
    titlePanel("Prediction of Virus Epidemic Months"),
-   h5("by You Li, You.Li2@ed.ac.uk; last update: 5-Sep-2018"),
+   h5("by You Li, You.Li2@ed.ac.uk; last update: 15-Nov-2018"),
+   hr(),
    h4("Please input monthly temperature in °C"),
    flowLayout(numericInput(inputId = "temp1", label = "January", value = 4),
               numericInput(inputId = "temp2", label = "February", value = 4),

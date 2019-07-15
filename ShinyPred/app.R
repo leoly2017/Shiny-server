@@ -17,9 +17,7 @@ ui <- fluidPage(
    # Application title
    titlePanel("Prediction of Virus Epidemic Months"),
    h5("by You Li, You.Li2@ed.ac.uk; last update: 15-Nov-2018"),
-   h5("Citation info: You Li et al. Global patterns in monthly activity of influenza virus, 
-      respiratory syncytial virus, parainfluenza virus, 
-      and metapneumovirus: a systematic analysis. The Lancet Global Health, Volume 7, Issue 8, e1031 - e1045")
+   h5("Citation info: You Li et al. Global patterns in monthly activity of influenza virus, respiratory syncytial virus, parainfluenza virus, and metapneumovirus: a systematic analysis. The Lancet Global Health, Volume 7, Issue 8, e1031 - e1045"),
    hr(),
    h4("Please input monthly temperature in °C"),
    flowLayout(numericInput(inputId = "temp1", label = "January", value = 4),
